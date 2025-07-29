@@ -3,7 +3,7 @@ import random
 NUM_NEUTRONS = 10000
 ENERGY_THRESHOLD = 0.7  
 MAX_ENERGY = 2.0  
-
+#ShooterDelta is a collaborator
 SCATTERING_THRESHOLD = 1.0  
 
 def russian_roulette(energy):
